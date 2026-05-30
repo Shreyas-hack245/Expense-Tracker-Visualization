@@ -3,7 +3,11 @@
 create a folder inside it in terminal paste:
 ```bash
 git clone https://github.com/Shreyas-hack245/Expense-Tracker-Visualization.git
-```
+````
+paste:
+```bash
+cd Expense-Tracker-Visualization
+````
 Then in terminal paste these:
 
 Installation of libraries:
